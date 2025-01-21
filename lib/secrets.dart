@@ -1,1 +1,1 @@
-const constantWeatherAPIKey = 'b399c6038b6547a8eceb952067bd9443';
+const constantWeatherAPIKey = 'your api key';
